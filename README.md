@@ -25,9 +25,10 @@ display sequence biases
 
 optional arguments:
 
-  -i , --input_fasta   Folder contains to-be-processed protein or nucleotide
-                       sequence files, e.g., /data/protein/
-  -o , --outdir        A path to save all files, including .aln alignment file
-                       and .svg/.png seq log file. e.g., data/output
-  -n , --num_threads   <-n 4> Number of threads, 1 thread (default n=1) will
-                       be used if not given
+  -i , --input_fasta
+  Folder contains to-be-processed protein or nucleotide sequence files, e.g., /data/protein/
+  
+  -o , --outdir
+  A path to save all files, including .aln alignment file and .svg/.png seq log file. e.g., data/output
+  
+  -n , --num_threads
