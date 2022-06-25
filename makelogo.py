@@ -60,4 +60,5 @@ if __name__ == '__main__':
             makelogo(args.input_fasta+fasta_file, args.outdir)
             print(f'Finished {fasta_file}')
 
+    finish = time.perf_counter()
     print(f'finished in {round(finish - start, 3)} seconds')
