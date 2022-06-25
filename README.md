@@ -12,8 +12,12 @@ optional arguments:
   
   -fasta , --fasta_file 
   Original protein fasta file used for clustering, e.g.,/data/test.fasta
-  -node , --node_num    Minimal number (included) of nodes in a cluster
-  -o , --outdir         A path to save all files. e.g., data/output
+  
+  -node , --node_num
+  Minimal number (included) of nodes in a cluster
+  
+  -o , --outdir
+  A path to save all files. e.g., data/output
   
   
 makelogo.py performs sequence alignment and then generate logo sequence .svg file to
