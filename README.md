@@ -30,4 +30,5 @@ optional arguments:
   A path to save all files, including .aln alignment file and .svg/.png seq log file. e.g., data/output
   
   -n , --num_threads
-```  
+```
+
