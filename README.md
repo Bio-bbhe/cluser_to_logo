@@ -34,6 +34,7 @@ optional arguments:
 **E.g., below is the SSN of small peptide**
 ![image](https://github.com/Bio-bbhe/cluser_to_logo/assets/82441159/062373d3-6d75-4fdd-8107-3d9e10045c85)
 **seq_logo of the first cluster is:**
+
 ![Picture2](https://github.com/Bio-bbhe/cluser_to_logo/assets/82441159/095c8ede-c9a5-4fc3-9401-9454a094902a)
 
 
